@@ -19,6 +19,9 @@ body {
   background-repeat: no-repeat;
   font-size: 18px;
   text-align: center;
+}
+
+a{
   cursor: pointer;
 }
 
